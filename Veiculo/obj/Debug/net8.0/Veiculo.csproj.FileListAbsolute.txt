@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\bin\Debug\net8.0\Veiculo.exe
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\bin\Debug\net8.0\Veiculo.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\bin\Debug\net8.0\Veiculo.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\bin\Debug\net8.0\Veiculo.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\bin\Debug\net8.0\Veiculo.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\refint\Veiculo.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\Veiculo.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Veiculo\obj\Debug\net8.0\ref\Veiculo.dll

@@ -1,0 +1,16 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\bin\Debug\net8.0\Poligono.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\bin\Debug\net8.0\Poligono.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\bin\Debug\net8.0\Poligono.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\bin\Debug\net8.0\Vertice.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\bin\Debug\net8.0\Vertice.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.csproj.Up2Date
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\refint\Poligono.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\Poligono.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Poligono\obj\Debug\net8.0\ref\Poligono.dll

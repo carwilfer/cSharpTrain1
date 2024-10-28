@@ -1,0 +1,16 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\bin\Debug\net8.0\ListaIntervaloApp.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\bin\Debug\net8.0\ListaIntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\bin\Debug\net8.0\ListaIntervaloApp.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\bin\Debug\net8.0\IntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\bin\Debug\net8.0\IntervaloApp.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaInt.A2A64548.Up2Date
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\refint\ListaIntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ListaIntervaloApp.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\ListaIntervaloApp\obj\Debug\net8.0\ref\ListaIntervaloApp.dll

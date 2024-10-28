@@ -1,0 +1,12 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\refint\Vertice.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\Vertice\obj\Debug\net8.0\ref\Vertice.dll

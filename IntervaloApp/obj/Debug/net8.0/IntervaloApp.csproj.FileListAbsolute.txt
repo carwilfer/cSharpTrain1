@@ -1,0 +1,12 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\bin\Debug\net8.0\IntervaloApp.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\bin\Debug\net8.0\IntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\bin\Debug\net8.0\IntervaloApp.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\refint\IntervaloApp.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\IntervaloApp.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\IntervaloApp\obj\Debug\net8.0\ref\IntervaloApp.dll

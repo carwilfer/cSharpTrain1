@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ListaIntervaloApp/1.0.0": {
+        "dependencies": {
+          "IntervaloApp": "1.0.0"
+        },
+        "runtime": {
+          "ListaIntervaloApp.dll": {}
+        }
+      },
+      "IntervaloApp/1.0.0": {
+        "runtime": {
+          "IntervaloApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaIntervaloApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntervaloApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

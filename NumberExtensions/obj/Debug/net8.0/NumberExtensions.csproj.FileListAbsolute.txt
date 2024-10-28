@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\bin\Debug\net8.0\NumberExtensions.exe
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\bin\Debug\net8.0\NumberExtensions.deps.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\bin\Debug\net8.0\NumberExtensions.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\bin\Debug\net8.0\NumberExtensions.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\bin\Debug\net8.0\NumberExtensions.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\refint\NumberExtensions.dll
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.pdb
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\NumberExtensions.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Curso e Certificação\curso_beecrowd-iuuL\Desafios\DesafiosCSharp\NumberExtensions\obj\Debug\net8.0\ref\NumberExtensions.dll
